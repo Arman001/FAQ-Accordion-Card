@@ -31,8 +31,8 @@ Users should be able to:
 ![Mobile Design](image-3.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Arman001/FAQ-Accordion-Card)
-- Live Site URL: [Add live site URL here](https://lucky-nasturtium-e43645.netlify.app/)
+- Solution URL: [GitHub Solution](https://github.com/Arman001/FAQ-Accordion-Card)
+- Live Site URL: [Netlify Live](https://lucky-nasturtium-e43645.netlify.app/)
 
 ## My process
 
